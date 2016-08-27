@@ -1,2 +1,7 @@
 // Std Main
-@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap.scss';
+// Vars
+$fa-font-path: '../../bower_components/font-awesome/fonts/';
+
+// Imports
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+@import '../../bower_components/font-awesome/scss/font-awesome';
