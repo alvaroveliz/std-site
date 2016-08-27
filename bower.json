@@ -1,0 +1,29 @@
+{
+  "name": "alvaroveliz/std-site",
+  "homepage": "https://github.com/alvaroveliz/std-site",
+  "authors": [
+    "Alvaro Veliz <alvaro.veliz@gmail.com>"
+  ],
+  "description": "Standard Site",
+  "main": "index.html",
+  "keywords": [
+    "standard",
+    "website",
+    "bower",
+    "html",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "1.9",
+    "font-awesome": "^4.6.3"
+  }
+}
